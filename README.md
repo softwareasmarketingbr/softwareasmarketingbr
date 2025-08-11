@@ -1,16 +1,14 @@
-## Hi there 👋
+## Software as marketing
 
-<!--
-**softwareasmarketingbr/softwareasmarketingbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software as Marketing (SaM) é um conceito originado dentro da metodologia ToolMarketing que propõe transformar softwares funcionais em canais ativos de marketing.
+Em vez de depender apenas de anúncios, conteúdos efêmeros ou abordagens persuasivas, o SaM utiliza ferramentas digitais que entregam valor real e recorrente ao usuário, antes, durante e depois da venda.
 
-Here are some ideas to get you started:
+O software deixa de ser apenas um produto ou serviço interno e passa a ser o próprio canal de marketing, criando relacionamento, engajamento e conversão de forma natural e contínua.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Objetivo
+O principal objetivo do SaM é complementar ações de marketing tradicional com soluções digitais funcionais que resolvem problemas concretos para o público-alvo.
+Dessa forma, o marketing deixa de interromper para começar a servir. Entregando utilidade como proposta de valor central.
+
+Saiba mais em:
+https://marketingdeferramenta.org 
+https://diegomartinez.org
